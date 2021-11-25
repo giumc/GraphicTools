@@ -1,2 +1,2 @@
 # GraphicTools
-Matlab tool for graphic editing
+Matlab module for graphic editing
